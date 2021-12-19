@@ -1,6 +1,5 @@
 # 👋 Hi, I’m MANOJ M
- - 👀 I’m interested in Frontend devlopment , UI and UX design 
- - 🌱 I’m currently learning Java Script
- - 💞️ I’m looking for Internship...
+ - 👀 I’m interested in Web devlopment , UI and UX design 
+ - 🌱 I’m currently learning NodeJS
  - 📫 My phone number is "9741626527" and my mail is "manumadhu1425@gmail.com" 
- - google devlopers profile "https://g.dev/ManojM"
+ - Google developers profile "https://g.dev/ManojM"
