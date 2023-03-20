@@ -14,6 +14,3 @@ I’m interested in Fullstack development , UI and UX design
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Manoj-14&theme=default&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Manoj-14&icon=0&color=1)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
